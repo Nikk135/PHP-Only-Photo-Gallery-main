@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
       'h1title'           => "Metal Fence ",
       'imagepath'         => "/img/Nick-Gritskul-001-36.tif",
       'caption'           => "Metal Fence on the ground",
-      'copyright'         => "&copy Eric Girouard, 2021")
+      'copyright'         => "&copy Nick Gritskul, 2021")
 );
 ?>  

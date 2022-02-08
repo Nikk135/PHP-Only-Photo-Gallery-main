@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
       'h1title'           => "Bundle of autumn trees",
       'imagepath'         => "/img/DSC01390.tif",
       'caption'           => "Bundle of colorful trees",
-      'copyright'         => "&copy Eric Girouard, 2021")
+      'copyright'         => "&copy Nick Gritskul, 2021")
 );
 ?>  

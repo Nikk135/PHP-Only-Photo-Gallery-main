@@ -13,7 +13,7 @@ array (   // the first array inside "content":: child array #1
         'h1title'           => "Overgrown cabin in the night",
         'imagepath'         => "/img/20211106_190606.tif",
         'caption'           => "Angle shot of a overgrown cabin",
-        'copyright'         => "&copy Eric Girouard, 2014"),  // last line ends with a ),
+        'copyright'         => "&copy Nick Gritskul, 2021"),  // last line ends with a ),
 
 );
 ?>  

@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
     'h1title'           => "Light up area in the night",
     'imagepath'         => "/img/20211106_191002.tif",
     'caption'           => "Lamp post lighting up the autumn ground in the night.",
-    'copyright'         => "&copy Eric Girouard, 2013")
+    'copyright'         => "&copy Nick Gritskul, 2021")
 );
 ?>  

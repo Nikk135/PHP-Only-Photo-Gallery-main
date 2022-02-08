@@ -13,6 +13,6 @@ array  // the third array inside "content": child array #3
       'h1title'           => "Front of a car",
       'imagepath'         => "/img/DSC01400.tif",
       'caption'           => "Front of a car in black and white",
-      'copyright'         => "&copy Eric Girouard, 2021")
+      'copyright'         => "&copy Nick Gritskul, 2021")
 );
 ?>  
