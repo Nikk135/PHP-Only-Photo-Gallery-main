@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "Bundle of autumn trees ",
       'metadescription'   => "Bundle of colorful trees",
       'h1title'           => "Bundle of autumn trees",
-      'imagepath'         => "/img/DSC01390.tif",
+      'imagepath'         => "/img/DSC01390.jpg",
       'caption'           => "Bundle of colorful trees",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

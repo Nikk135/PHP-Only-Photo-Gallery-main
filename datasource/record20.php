@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "Blue room overlooking sports field ",
       'metadescription'   => "Bottom shot of a blue room overlooking the JAC sport field.",
       'h1title'           => "Blue room overlooking sports field ",
-      'imagepath'         => "/img/Nick-Gritskul-006-15-HDR.tif",
+      'imagepath'         => "/img/Nick-Gritskul-006-15-HDR.jpg",
       'caption'           => "Bottom shot of a blue room overlooking the JAC sport field.",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

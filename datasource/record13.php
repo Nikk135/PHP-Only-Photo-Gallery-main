@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "Red Swing",
       'metadescription'   => "Red Swing isolated from its surroundings",
       'h1title'           => "Red Swing",
-      'imagepath'         => "/img/Nick-Gritskul-002-20.tif",
+      'imagepath'         => "/img/Nick-Gritskul-002-20.jpg",
       'caption'           => "Red Swing isolated from its surroundings",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

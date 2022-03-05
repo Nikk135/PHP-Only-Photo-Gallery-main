@@ -11,7 +11,7 @@ array (   // the first array inside "content":: child array #1
         'metatitle'         => "Overgrown cabin in the night",
         'metadescription'   => "Angle shot of a overgrown cabin",
         'h1title'           => "Overgrown cabin in the night",
-        'imagepath'         => "/img/20211106_190606.tif",
+        'imagepath'         => "/img/20211106_190606.jpg",
         'caption'           => "Angle shot of a overgrown cabin",
         'copyright'         => "&copy Nick Gritskul, 2021"),  // last line ends with a ),
 

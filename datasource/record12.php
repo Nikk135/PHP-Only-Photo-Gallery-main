@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "Wet road",
       'metadescription'   => "Difference between a wet and cry road.",
       'h1title'           => "Wet road",
-      'imagepath'         => "/img/Nick-Gritskul-001-56.tif",
+      'imagepath'         => "/img/Nick-Gritskul-001-56.jpg",
       'caption'           => "Difference between a wet and cry road.",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

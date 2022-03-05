@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "bottom of a tree",
       'metadescription'   => "A bottom shot of a tree",
       'h1title'           => "bottom of a tree",
-      'imagepath'         => "/img/DSC01402.tif",
+      'imagepath'         => "/img/DSC01402.jpg",
       'caption'           => "A bottom shot of a tree",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

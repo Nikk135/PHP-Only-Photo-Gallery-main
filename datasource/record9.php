@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "JAC Recolored ",
       'metadescription'   => "JAC recolored using color filters",
       'h1title'           => "JAC Recolored ",
-      'imagepath'         => "/img/Nick-Gritskul-001-23.tif",
+      'imagepath'         => "/img/Nick-Gritskul-001-23.jpg",
       'caption'           => "JAC recolored using color filters",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );

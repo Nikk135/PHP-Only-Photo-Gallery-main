@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "The Birdman",
       'metadescription'   => "Man with a bird on his hand",
       'h1title'           => "The Birdman",
-      'imagepath'         => "/img/Nick-Gritskul-003-08.tif",
+      'imagepath'         => "/img/Nick-Gritskul-003-08.jpg",
       'caption'           => "Man with a bird on his hand",
       'copyright'         => "&copy Nick Gritskul, 2021")
 );
